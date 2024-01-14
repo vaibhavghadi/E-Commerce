@@ -1,0 +1,38 @@
+.table{
+    padding:4px 4px 4px 4px;
+    border:12px solid rgb(8, 216, 224);
+    left: 25%;
+    width:50%;
+    text-align: center;
+    position: absolute;
+    top:150px;
+    left:20%;
+    border-style: outset;
+    --bs-table-color: none;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.head{
+    color:red;
+}
+
+
+
+#search{
+    position: relative;
+    left: 35%;
+    margin-top: 40px;
+    text-align: center;
+}
+
+th{
+    color: red;
+}
+
+td{
+    color:rgb(89, 0, 255)
+}
+
+
+
